@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Temps/testing"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "jstesting"
+	}
+}
